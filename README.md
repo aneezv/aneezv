@@ -109,7 +109,3 @@ Security
 </p>
 
 ---
-
-<p align="center">
-  <i>Build • Learn • Experiment • Ship</i>
-</p>
